@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "936638285754",
+    "firebase_url": "https://autowashe-9d40c.firebaseio.com",
+    "project_id": "autowashe-9d40c",
+    "storage_bucket": "autowashe-9d40c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936638285754:android:6ab16edb94fbfb0d",
+        "android_client_info": {
+          "package_name": "com.autowashe1.m.autowashe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936638285754-ku82hoqtparsgveigplifn1nq9s7soao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghTJSwJAgQtvjDrZRc_ItRLq1M9y3DbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

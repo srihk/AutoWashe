@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195507076700",
+    "firebase_url": "https://autowashe-b5406.firebaseio.com",
+    "project_id": "autowashe-b5406",
+    "storage_bucket": "autowashe-b5406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195507076700:android:6ab16edb94fbfb0d",
+        "android_client_info": {
+          "package_name": "com.autowashe1.m.autowashe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195507076700-5aamti148959qeka4g9049aj35k1h1hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autowashe1.m.autowashe",
+            "certificate_hash": "cc78eef966a8d5dd199b9abbe1e29fc7ac0422d1"
+          }
+        },
+        {
+          "client_id": "195507076700-6adfae02ulb5ej41in74b4k3402opq5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMn9S-FMc4LrwjTDuqeG1d-BIqRmlM-jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195507076700-6adfae02ulb5ej41in74b4k3402opq5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
