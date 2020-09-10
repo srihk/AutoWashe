@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Auto Washe</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">SEDAN</string>
+    <string name="tab_text_2">SUV</string>
+    <string name="tab_text_3">TRUCK</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="just_a_wash">Just-a-Wash</string>
+    <string name="justawash_description">Gentle hand wash, towel dry and tire shine.</string>
+    <string name="sedan_justawash_cost">Rs.190/-</string>
+    <string name="sedan_specialwash_cost">Rs.250/-</string>
+    <string name="specialwash_description">Wash with interior cleaning. Vaccum and wipe down.</string>
+    <string name="special_wash">Special Wash</string>
+    <string name="truck_specialwash_cost">Rs.250/-</string>
+    <string name="truck_justawash_cost">Rs.190/-</string>
+    <string name="suv_specialwash_cost">Rs.250/-</string>
+    <string name="suv_justawash_cost">Rs.190/-</string>
+    <string name="sedan_washandshine_cost">Rs.300/-</string>
+    <string name="washandshine_description">Complete cleaning inside and outside + a hand wax.</string>
+    <string name="wash_and_shine">Wash and Shine</string>
+    <string name="suv_washandshine_cost">Rs.300/-</string>
+    <string name="truck_washandshine_cost">Rs.300/-</string>
+    <string name="sedan_awesomewash_cost">Rs.500/-</string>
+    <string name="awesomewash_description">Comprehensive and detailed interior and exterior wash and wax.</string>
+    <string name="awesomewash">Awesome Wash</string>
+    <string name="suv_awesomewash_cost">Rs.500/-</string>
+    <string name="truck_awesomewash_cost">Rs.500/-</string>
+    <string name="eco_autowashe">ECO-AUTOWASHE</string>
+    <string name="Address">Fetch Address</string>
+    <string name="fetch">Fetch</string>
+</resources>
