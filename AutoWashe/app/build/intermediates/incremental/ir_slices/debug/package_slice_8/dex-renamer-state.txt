@@ -1,4 +1,0 @@
-#Mon Mar 18 11:39:00 IST 2019
-base.0=E\:\\sriharsha\\myAndroidProjs\\ProjectAutowash\\AutoWashe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
-path.0=classes.dex
-renamed.0=classes.dex
